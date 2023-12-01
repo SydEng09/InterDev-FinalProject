@@ -1,0 +1,12 @@
+C:\Users\sydne\Documents\team-4-project\eBikes\SalesSystem\bin\Debug\net6.0\SalesSystem.deps.json
+C:\Users\sydne\Documents\team-4-project\eBikes\SalesSystem\bin\Debug\net6.0\SalesSystem.dll
+C:\Users\sydne\Documents\team-4-project\eBikes\SalesSystem\bin\Debug\net6.0\SalesSystem.pdb
+C:\Users\sydne\Documents\team-4-project\eBikes\SalesSystem\obj\Debug\net6.0\SalesSystem.csproj.AssemblyReference.cache
+C:\Users\sydne\Documents\team-4-project\eBikes\SalesSystem\obj\Debug\net6.0\SalesSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sydne\Documents\team-4-project\eBikes\SalesSystem\obj\Debug\net6.0\SalesSystem.AssemblyInfoInputs.cache
+C:\Users\sydne\Documents\team-4-project\eBikes\SalesSystem\obj\Debug\net6.0\SalesSystem.AssemblyInfo.cs
+C:\Users\sydne\Documents\team-4-project\eBikes\SalesSystem\obj\Debug\net6.0\SalesSystem.csproj.CoreCompileInputs.cache
+C:\Users\sydne\Documents\team-4-project\eBikes\SalesSystem\obj\Debug\net6.0\SalesSystem.dll
+C:\Users\sydne\Documents\team-4-project\eBikes\SalesSystem\obj\Debug\net6.0\refint\SalesSystem.dll
+C:\Users\sydne\Documents\team-4-project\eBikes\SalesSystem\obj\Debug\net6.0\SalesSystem.pdb
+C:\Users\sydne\Documents\team-4-project\eBikes\SalesSystem\obj\Debug\net6.0\ref\SalesSystem.dll

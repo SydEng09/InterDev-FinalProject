@@ -1,0 +1,12 @@
+C:\Users\sydne\Documents\team-4-project\eBikes\PurchasingSystem\bin\Debug\net6.0\PurchasingSystem.deps.json
+C:\Users\sydne\Documents\team-4-project\eBikes\PurchasingSystem\bin\Debug\net6.0\PurchasingSystem.dll
+C:\Users\sydne\Documents\team-4-project\eBikes\PurchasingSystem\bin\Debug\net6.0\PurchasingSystem.pdb
+C:\Users\sydne\Documents\team-4-project\eBikes\PurchasingSystem\obj\Debug\net6.0\PurchasingSystem.csproj.AssemblyReference.cache
+C:\Users\sydne\Documents\team-4-project\eBikes\PurchasingSystem\obj\Debug\net6.0\PurchasingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sydne\Documents\team-4-project\eBikes\PurchasingSystem\obj\Debug\net6.0\PurchasingSystem.AssemblyInfoInputs.cache
+C:\Users\sydne\Documents\team-4-project\eBikes\PurchasingSystem\obj\Debug\net6.0\PurchasingSystem.AssemblyInfo.cs
+C:\Users\sydne\Documents\team-4-project\eBikes\PurchasingSystem\obj\Debug\net6.0\PurchasingSystem.csproj.CoreCompileInputs.cache
+C:\Users\sydne\Documents\team-4-project\eBikes\PurchasingSystem\obj\Debug\net6.0\PurchasingSystem.dll
+C:\Users\sydne\Documents\team-4-project\eBikes\PurchasingSystem\obj\Debug\net6.0\refint\PurchasingSystem.dll
+C:\Users\sydne\Documents\team-4-project\eBikes\PurchasingSystem\obj\Debug\net6.0\PurchasingSystem.pdb
+C:\Users\sydne\Documents\team-4-project\eBikes\PurchasingSystem\obj\Debug\net6.0\ref\PurchasingSystem.dll
